@@ -1,4 +1,4 @@
-let lum = [255, 150, 50, 10, 0]
+let lum = [255, 150, 50]
 let x: number[] = []
 for (let var1 = 0; var1 <= 4; var1++) {
     x.push(0)
